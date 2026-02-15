@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "resonance",
+  "base_artist": "ローレン・イロアス",
+  "createdAt": "2026-02-15T18:26:09.721631Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Resonance",
+      "artist": "Insomnium",
+      "has_synced": false,
+      "path": "select/01_Resonance_Insomnium.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Conservatory Resonance",
+      "artist": "Novembre",
+      "has_synced": false,
+      "path": "select/02_Conservatory_Resonance_Novembre.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Resonance",
+      "artist": "Entheos",
+      "has_synced": false,
+      "path": "select/03_Resonance_Entheos.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Deep Resonance",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/04_Deep_Resonance_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Resonance",
+      "artist": "Borknagar",
+      "has_synced": false,
+      "path": "select/05_Resonance_Borknagar.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Resonance",
+      "artist": "NateWantsToBattle",
+      "has_synced": true,
+      "path": "select/06_Resonance_NateWantsToBattle.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "resonance",
+      "artist": "Aiobahn feat. KOCHO",
+      "has_synced": true,
+      "path": "select/07_resonance_Aiobahn_feat._KOCHO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "resonance",
+      "artist": "Aiobahn/KOCHO",
+      "has_synced": true,
+      "path": "select/08_resonance_Aiobahn_KOCHO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Resonance",
+      "artist": "My Brightest Diamond",
+      "has_synced": false,
+      "path": "select/09_Resonance_My_Brightest_Diamond.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "resonance",
+      "artist": "ローレン・イロアス",
+      "has_synced": false,
+      "path": "select/pl_01_resonance_ローレン・イロアス.txt"
+    }
+  ]
+}
